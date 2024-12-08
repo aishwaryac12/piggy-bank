@@ -1,0 +1,6 @@
+package com.piggybankproject.entity;
+
+public interface TransactionType {
+
+	CREDIT, DEBIT
+}

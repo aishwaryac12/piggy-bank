@@ -1,0 +1,5 @@
+package com.piggybankproject.repository;
+
+public interface ITransactionRepo {
+
+}
